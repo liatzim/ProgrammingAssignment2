@@ -3,6 +3,7 @@
 
 ## Write a short comment describing this function
 
+## Assignment number 2 Coursera
 
 makeVector <- function(x = matrix()){
   inv <- NULL
